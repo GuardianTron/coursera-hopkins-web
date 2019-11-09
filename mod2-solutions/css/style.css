@@ -23,6 +23,7 @@ h1{
 #menu-container > div{
 
     padding:10px;
+    padding-top: 2em;
     background-color: gray;
     position: relative;
     margin-bottom: 10px;
