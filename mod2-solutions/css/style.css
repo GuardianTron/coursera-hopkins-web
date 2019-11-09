@@ -57,7 +57,7 @@ h1{
 
 #item3 > h2{
     background-color: royalblue;
-    color: blue;
+    color:black;
 }
 
 @media (min-width: 992px){
